@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Harsh Jaiswal</h1>
+Hi 👋, I'm Harsh Jaiswal
 <h3 align="center">Full Stack Developer currently pursuing B.Tech from IIIT Gwalior</h3>
 
 - 🌱 I’m currently learning **Blockchain and Smart Contract Development**
