@@ -2,9 +2,6 @@ Hi 👋, I'm Harsh Jaiswal
 <h3 align="center">Full Stack Developer currently pursuing B.Tech from IIIT Gwalior</h3>
 
 - 🌱 I’m currently learning **Blockchain and Smart Contract Development**
-
-- 📝 My Leetcode Profile [https://leetcode.com/u/harsh_jaiswal_12/](https://leetcode.com/u/harsh_jaiswal_12/)
-
 - 💬 Ask me about **React , Next , Blockchain , Backend , DSA**
 
 - 📫 How to reach me **2003harshjais@gmail.com**
